@@ -1,0 +1,10 @@
+.container, .col{
+  border: 1px solid black;
+  background-color: rgba(71, 61, 139, 0.376);
+}
+
+.row{
+  border: 1px solid black;
+  background-color: rgba(220, 56, 56, 0.549);
+  min-height: 30px;
+}
