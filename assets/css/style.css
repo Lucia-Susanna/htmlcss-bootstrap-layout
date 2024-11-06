@@ -1,4 +1,4 @@
-.container, .col{
+.container, [class^="col"]{
   border: 1px solid black;
   background-color: rgba(71, 61, 139, 0.376);
 }
